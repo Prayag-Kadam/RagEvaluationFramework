@@ -1,0 +1,22 @@
+[
+    {
+        "model": "all-MiniLM-L6-v2",
+        "MRR": 1.0,
+        "Precision@1": 1.0,
+        "Recall@1": 1.0,
+        "Precision@3": 0.3333333333333333,
+        "Recall@3": 1.0,
+        "Precision@5": 0.2,
+        "Recall@5": 1.0
+    },
+    {
+        "model": "multi-qa-mpnet-base-dot-v1",
+        "MRR": 1.0,
+        "Precision@1": 1.0,
+        "Recall@1": 1.0,
+        "Precision@3": 0.3333333333333333,
+        "Recall@3": 1.0,
+        "Precision@5": 0.2,
+        "Recall@5": 1.0
+    }
+]

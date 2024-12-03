@@ -1,0 +1,121 @@
+{
+    "retrieval": [
+        {
+            "query": "what are starch",
+            "Precision@1": 1.0,
+            "Recall@1": 1.0
+        },
+        {
+            "query": "what are starch",
+            "Precision@3": 0.3333333333333333,
+            "Recall@3": 1.0
+        },
+        {
+            "query": "what are starch",
+            "Precision@5": 0.2,
+            "Recall@5": 1.0
+        },
+        {
+            "query": "average cost a month for car insurance",
+            "Precision@1": 1.0,
+            "Recall@1": 1.0
+        },
+        {
+            "query": "average cost a month for car insurance",
+            "Precision@3": 0.3333333333333333,
+            "Recall@3": 1.0
+        },
+        {
+            "query": "average cost a month for car insurance",
+            "Precision@5": 0.2,
+            "Recall@5": 1.0
+        },
+        {
+            "query": "number of child teeth",
+            "Precision@1": 1.0,
+            "Recall@1": 1.0
+        },
+        {
+            "query": "number of child teeth",
+            "Precision@3": 0.3333333333333333,
+            "Recall@3": 1.0
+        },
+        {
+            "query": "number of child teeth",
+            "Precision@5": 0.2,
+            "Recall@5": 1.0
+        },
+        {
+            "query": "how long does it take to cook a prime rib roast in the oven",
+            "Precision@1": 1.0,
+            "Recall@1": 1.0
+        },
+        {
+            "query": "how long does it take to cook a prime rib roast in the oven",
+            "Precision@3": 0.3333333333333333,
+            "Recall@3": 1.0
+        },
+        {
+            "query": "how long does it take to cook a prime rib roast in the oven",
+            "Precision@5": 0.2,
+            "Recall@5": 1.0
+        },
+        {
+            "query": "was the fury tank real",
+            "Precision@1": 1.0,
+            "Recall@1": 1.0
+        },
+        {
+            "query": "was the fury tank real",
+            "Precision@3": 0.3333333333333333,
+            "Recall@3": 1.0
+        },
+        {
+            "query": "was the fury tank real",
+            "Precision@5": 0.2,
+            "Recall@5": 1.0
+        }
+    ],
+    "generation": [
+        {
+            "query": "what are starch",
+            "response": "what are starch The list below is for cooked starchy vegetables. The serving sizes have about 15 grams of carbohydrate, 3 grams of protein, and about 80 calories. If you are eyeballing servings, 1/2 cup is equal to about the size of your cupped palm. One cup is about the size of your fist. 1  Beets (1 cup) 2  Carrots (1 cup) 3  Corn (1/2 cup or 1 medium cob) 4  Green Peas (1/2 cup) 5  Parsnips (1/2 cup) 6  Plantain (1/2 cup) 7  Pumpkin (1 cup) 8  Sweet Potatoes (1/2 cup) 9  Taro (1/2 cup) 10  White Potatoes (1 small or 1/2 cup mashed, 1/2 cup roasted or 10 to 15 French fries)Starch is the most common carbohydrate in the human diet and is contained in many staple foods. The major sources of starch intake worldwide are the cereals (rice, wheat, and maize) and the root vegetables (potatoes and cassava). A low intake of starch is known as satiety but no evidence exists to support the existence of starvation. Most of the high-calorie sources of starch, including white potatoes and green peas, are from plants. Because starch can be fed to plants",
+            "rouge1": 0.15384615384615385,
+            "rouge2": 0.14611872146118723,
+            "rougeL": 0.15384615384615385,
+            "bleu": 6.5717307631232735
+        },
+        {
+            "query": "average cost a month for car insurance",
+            "response": "average cost a month for car insurance The national average cost of car insurance varies based on who's doing the study. A March 2013 Forbes article indicated an annual cost of $1,510, which equates to $125.83 per month. This amount is for full coverage. If you buy liability-only protection, you have much lower premiums. The Insure website survey current at the time of publication indicated Michigan had the highest state average at $2,551 per year, or $212.58 a month. West Virginia was just below that amount with a monthly premium of $209.83. Ohio boasts the lowest state average at $926, or $77.17If you are responsible for an accident in Indiana that destroys a car and sends three people to the hospital, your available insurance will cover the first two people who file a claim, up to a total of $25,000 in medical payments and liability costs, and up to $10,000 in property damage costs. The price of car insurance depends on many factors, including your age and experience as a driver, your credit record and whether you are married and own a home. The Illinois Insurance Institute found insurance premiums increased from $17,700 to $36,100 in Illinois between 1998 and 2009. Michigan and Washington State had higher premiums than Chicago. All three states have high rates of liability-only coverage.\n\nThe",
+            "rouge1": 0.01702127659574468,
+            "rouge2": 0.008583690987124462,
+            "rougeL": 0.01702127659574468,
+            "bleu": 0.28341237706462996
+        },
+        {
+            "query": "number of child teeth",
+            "response": "number of child teeth In the universal tooth numbering system, tooth number 1 is the patient's upper right third molar, on the right side of the mouth in the upper (maxillary) jaw. Numbering of teeth continues along the upper teeth toward the front and across to the last molar tooth back on the top left side (number 16).In the original system, children's 20 primary teeth are numbered in the same order (from 1 to 20), except that a small letter d follows each number to indicate deciduous (primary) teeth. However, most dentists today use a modified version of the Universal Numbering System for children, with letters instead of teeth numbers. Because the original system was used only for children, many modern dental and social psychologists now use the same system for adults and adolescents. The number of primary teeth is increased substantially, with a decrease in the number of secondary teeth in most age groups, as",
+            "rouge1": 0.0125,
+            "rouge2": 0.0,
+            "rougeL": 0.0125,
+            "bleu": 0.19918896025221164
+        },
+        {
+            "query": "how long does it take to cook a prime rib roast in the oven",
+            "response": "how long does it take to cook a prime rib roast in the oven b. Okay...I've got a 14lb. six bone prime rib in the fridge for tomorrrow. I'll take it out of the fridge 2 hrs. before cooking. I intended to sear it in a 450* oven for 10-15 mins., then turn the heat down to 275* for the remainder of the cook time. I've read 20 mins./lb. That almost 5 hrs. 4 Place the roast fat side up and rib bones down in a roasting pan. Insert a meat thermometer into the thickest part of the roast, making sure that the thermometer isn't touching a bone. 5 After browning the roast at a 500\u00b0F temperature in the oven for 15 minutes, reduce the oven temperature to 325\u00b0F. To figure out the total cooking time, allow about 13-15 minutes per pound for rare and 15-17 minutes per pound for medium rare. Roast in oven until thermometer registers 115\u00b0-120\u00b0F for rare or 125\u00b0-130\u00b0F for medium. (The internal temperature of the roast will continue to rise after you take the roast out of the oven.). Check the temperature of the roast using a meat thermometer 30 to 45 minutes before you expect the roast to be done. For example, with a 10 pound roast, you would expect 2 1/2 hours of total cooking time (15 minutes at 500\u00b0 and 2 1/4 hours at 325\u00b0) and about 20 minutes of total cooking time (45 minutes at 375\u00b0F and 2 1/4 hours at 315\u00b0F.). 6 When finished, place the roast in a plastic dish with a lid. The lid doesn't need to be broken down",
+            "rouge1": 0.16300940438871475,
+            "rouge2": 0.15772870662460567,
+            "rougeL": 0.16300940438871475,
+            "bleu": 8.923578791087209
+        },
+        {
+            "query": "was the fury tank real",
+            "response": "was the fury tank real LIFE.com shares photos -- many of them from the very region of Europe where the new movie, Fury, is set -- depicting tank warfare as it was unleashed around the world in the 1940s. April, 1945.FURY is the first war film to feature a real life German Tiger I tank which actually came out of a museum collection. Tigers were the most feared German tanks in World War II. The 75mm and 76mm guns on American Sherman tanks could only penetrate the Tigeratiger\u00e2 s frontal armor at-point blank. range of the Tiger tanks at the time. This was the biggest advantage of the U.S. forces. the American T-34 (the most powerful tank in WWII) was developed at the S&D Institute in Birmingham, Alabama on May, 1941",
+            "rouge1": 0.0,
+            "rouge2": 0.0,
+            "rougeL": 0.0,
+            "bleu": 0.0
+        }
+    ]
+}

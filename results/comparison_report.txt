@@ -1,0 +1,20 @@
+Model Comparison Report
+==============================
+Model: all-MiniLM-L6-v2
+Mean Reciprocal Rank (MRR): 1.00
+Precision@1: 1.00
+Recall@1: 1.00
+Precision@3: 0.33
+Recall@3: 1.00
+Precision@5: 0.20
+Recall@5: 1.00
+------------------------------
+Model: multi-qa-mpnet-base-dot-v1
+Mean Reciprocal Rank (MRR): 1.00
+Precision@1: 1.00
+Recall@1: 1.00
+Precision@3: 0.33
+Recall@3: 1.00
+Precision@5: 0.20
+Recall@5: 1.00
+------------------------------
